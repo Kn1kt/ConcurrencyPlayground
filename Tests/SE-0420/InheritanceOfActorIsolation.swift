@@ -7,6 +7,7 @@
 
 import Testing
 
+/// [SE-0420: Inheritance of actor isolation ](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0420-inheritance-of-actor-isolation.md)
 struct InheritanceOfActorIsolation {
     @SpecificGlobalActor
     private let counter = Counter()

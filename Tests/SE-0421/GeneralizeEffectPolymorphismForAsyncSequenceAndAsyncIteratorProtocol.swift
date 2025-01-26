@@ -7,6 +7,7 @@
 
 import Testing
 
+/// [SE-0421: Generalize effect polymorphism for `AsyncSequence` and `AsyncIteratorProtocol` ](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0421-generalize-async-sequence.md)
 struct GeneralizeEffectPolymorphismForAsyncSequenceAndAsyncIteratorProtocol {
     @Test
     func notThrowingAsyncIterator() async throws {

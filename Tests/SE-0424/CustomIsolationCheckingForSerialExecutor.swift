@@ -8,6 +8,7 @@
 import Testing
 import Dispatch
 
+/// [SE-0424: Custom isolation checking for SerialExecutor ](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0424-custom-isolation-checking-for-serialexecutor.md)
 struct CustomIsolationCheckingForSerialExecutor {
     @Test
     func customIsolationCheckingForSerialExecutor() async throws {

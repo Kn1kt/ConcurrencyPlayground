@@ -7,6 +7,7 @@
 
 import Testing
 
+/// [SE-0411: Isolated default value expressions ](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0411-isolated-default-values.md)
 struct IsolatedDefaultValueExpressions {
 #if swift(>=6)
     @Test
