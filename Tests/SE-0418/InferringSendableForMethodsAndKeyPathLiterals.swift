@@ -7,7 +7,7 @@
 
 import Testing
 
-/// [SE-0418: Inferring `Sendable` for methods and key path literals ](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0418-inferring-sendable-for-methods.md)
+/// [SE-0418: Inferring `Sendable` for methods and key path literals](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0418-inferring-sendable-for-methods.md)
 struct InferringSendableForMethodsAndKeyPathLiterals {
     @Test
     func inferringSendableForMethods() async throws {

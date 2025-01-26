@@ -7,7 +7,7 @@
 
 import Testing
 
-/// [SE-0401: Remove Actor Isolation Inference caused by Property Wrappers ](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0401-remove-property-wrapper-isolation.md)
+/// [SE-0401: Remove Actor Isolation Inference caused by Property Wrappers](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0401-remove-property-wrapper-isolation.md)
 struct RemoveActorIsolationInferenceCausedByPropertyWrappers {
 #if swift(<6)
     @Test

@@ -7,7 +7,7 @@
 
 import Testing
 
-/// [SE-0414: Region based Isolation ](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0414-region-based-isolation.md)
+/// [SE-0414: Region based Isolation](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0414-region-based-isolation.md)
 struct RegionBasedIsolation {
 #if swift(>=6)
     @Test

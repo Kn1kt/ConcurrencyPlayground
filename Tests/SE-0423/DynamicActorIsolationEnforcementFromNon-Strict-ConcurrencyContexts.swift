@@ -7,7 +7,7 @@
 
 import Testing
 
-/// [SE-0423: Dynamic actor isolation enforcement from non-strict-concurrency contexts ](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0423-dynamic-actor-isolation.md)
+/// [SE-0423: Dynamic actor isolation enforcement from non-strict-concurrency contexts](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0423-dynamic-actor-isolation.md)
 struct DynamicActorIsolationEnforcementFromNonStrictConcurrencyContexts {
     @Test
     func dynamicActorIsolationEnforcementFromNonStrictConcurrencyContexts() async throws {

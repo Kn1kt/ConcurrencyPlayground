@@ -8,7 +8,7 @@
 import Testing
 import os
 
-/// [SE-0431: `@isolated(any)` Function Types ](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0431-isolated-any-functions.md)
+/// [SE-0431: `@isolated(any)` Function Types](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0431-isolated-any-functions.md)
 struct IsolatedAnyFunctionTypes {
     @Test
     @MainActor

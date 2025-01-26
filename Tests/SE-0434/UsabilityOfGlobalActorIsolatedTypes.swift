@@ -7,7 +7,7 @@
 
 import Testing
 
-/// [SE-0434: Usability of global-actor-isolated types ](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0434-global-actor-isolated-types-usability.md)
+/// [SE-0434: Usability of global-actor-isolated types](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0434-global-actor-isolated-types-usability.md)
 struct UsabilityOfGlobalActorIsolatedTypes {
     @Test
     func globalActorIsolatedValueTypes() async throws {

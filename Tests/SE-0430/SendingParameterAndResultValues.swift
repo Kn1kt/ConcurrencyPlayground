@@ -8,7 +8,7 @@
 import Testing
 import Foundation
 
-/// [SE-0430: `sending` parameter and result values ](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0430-transferring-parameters-and-results.md)
+/// [SE-0430: `sending` parameter and result values](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0430-transferring-parameters-and-results.md)
 final class SendingParameterAndResultValues {
     @MainActor
     private var mainActorCounter: NonSendableCounter?

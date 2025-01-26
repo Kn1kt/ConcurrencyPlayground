@@ -8,7 +8,7 @@
 import Testing
 import Dispatch
 
-/// [SE-0417: Task Executor Preference ](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0417-task-executor-preference.md)
+/// [SE-0417: Task Executor Preference](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0417-task-executor-preference.md)
 struct TaskExecutorPreference {
     @Test
     @available(macOS 15.0, iOS 18.0, watchOS 11.0, tvOS 18.0, visionOS 2.0, *)
